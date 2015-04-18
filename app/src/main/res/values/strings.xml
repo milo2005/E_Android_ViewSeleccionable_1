@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ViewsSeleccionables</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="notificacion_color">"Seleccionasre el color "</string>
+    <string-array name="colores">
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Amarillo</item>
+    </string-array>
+
+</resources>
