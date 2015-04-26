@@ -15,11 +15,11 @@
     <ListView
         android:id="@+id/list"
         android:layout_below="@id/spinner"
-        android:divider="#33b5e5"
-        android:dividerHeight="1dp"
+        android:divider="#00000000"
+        android:dividerHeight="10dp"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:entries="@array/colores"
+
         ></ListView>
 
 </RelativeLayout>
